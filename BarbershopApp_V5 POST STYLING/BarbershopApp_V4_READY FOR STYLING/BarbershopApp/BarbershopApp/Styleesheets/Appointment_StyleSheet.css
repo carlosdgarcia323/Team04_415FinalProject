@@ -1,0 +1,23 @@
+﻿* {
+    margin: 0;
+}
+#form1 {
+    height: 1200px;
+    padding-left: 450px;
+    background-image: linear-gradient( to right, antiquewhite, antiquewhite 26%, lemonchiffon 15%, lemonchiffon 78%, antiquewhite 5% );
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#page {
+}
+
+#barbers {
+    font-size: 25px;
+    font-weight: 900;
+}
+#buttons {
+    margin-left: 220px;
+    color:lemonchiffon
+}
+#message {
+    color: red;
+}

@@ -1,0 +1,20 @@
+﻿* {
+    margin:0;
+}
+
+section {
+    margin-left: 600px;
+    margin-top: 300px;
+    background-color:antiquewhite;
+    width: 300px;
+    padding: 10px;
+
+}
+html {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/beard_mode.jpg');
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1500px;
+    background-size: 1500px 1000px;
+    margin-top: 0px;
+}

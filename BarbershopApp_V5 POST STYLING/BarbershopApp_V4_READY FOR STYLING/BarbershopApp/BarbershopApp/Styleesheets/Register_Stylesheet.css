@@ -1,0 +1,21 @@
+﻿* {
+    margin: 0;
+}
+
+section {
+    margin-left: 550px;
+    margin-top: 200px;
+    background-color: antiquewhite;
+    width: 450px;
+    padding: 30px;
+    padding-left:50px;
+}
+
+html {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/haircut2.jpg');
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1500px;
+    background-size: 1500px 1000px;
+    margin-top: 0px;
+}
